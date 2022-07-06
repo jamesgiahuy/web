@@ -128,7 +128,7 @@ html {
   background-color: #333;
   margin-top: 46.4px;
   padding-top: 50%;
-  background: url('/w3b_band/chicago.jpg') top center / cover no-repeat;
+  background: url('./chicago.jpg') top center / cover no-repeat;
   position: relative;
 }
 
